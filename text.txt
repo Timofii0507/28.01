@@ -1,0 +1,7 @@
+This is an example text.
+
+There are two sentences in this text.
+
+The first sentence describes that this is an example text.
+
+The second sentence describes that there are two sentences in this text.
